@@ -39,21 +39,16 @@ h6 {
   position: fixed;
   visibility: hidden;
   opacity: 0;
-  right: 15px;
-  bottom: 15px;
+  right: 20px;
+  bottom: 20px;
   z-index: 996;
   background: #16df7e;
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
   border-radius: 4px;
   transition: all 0.4s;
 }
 
-.back-to-top i {
-  font-size: 24px;
-  color: #fff;
-  line-height: 0;
-}
 
 .back-to-top:hover {
   background: #33eb92;
@@ -169,8 +164,8 @@ h6 {
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  background: #ffffff;
-  color: #16df7e;
+  background: #206bfb;
+  color: #ffffff;
   border-color: #ffffff;
 }
 
@@ -778,7 +773,7 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #344D67;
+  background: #206bfb;
   border-color: #fff;
 }
 
